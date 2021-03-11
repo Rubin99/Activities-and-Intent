@@ -1,1 +1,2 @@
-![Hello Toast Screenshot](./HelloToast.png)
+![First Activity Screenshot](./FirstActivity.png)
+![Second Activity Screenshot](./SecondActivity.png)
