@@ -1,5 +1,5 @@
 ## Activities & Intents HomeWork:
-![Activities & Intents HomeWork](./WW.gif)
+![Activities & Intents HomeWork](./HW.gif)
 
 ## Task 2:
 <img src="./Task2MA.png" alt="Task2MA" width="500" height="1000"/>
