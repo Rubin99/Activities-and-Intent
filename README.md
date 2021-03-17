@@ -1,2 +1,2 @@
 ## Coding Challenge
-![Coding Challenge](./HW.gif)
+![Coding Challenge](./CC.gif)
