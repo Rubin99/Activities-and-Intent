@@ -1,4 +1,7 @@
 ## Activities & Intents HomeWork:
+![HW](https://user-images.githubusercontent.com/41099034/111654681-17dbfc00-8831-11eb-8d96-47fa9fd3da33.gif)
+
+## Activities & Intents HomeWork:
 <img src="./FirstActivityHW.png" alt="FirstActivityHW" width="500" height="1000"/>
 <img src="./SecondActivityHW.png" alt="SecondActivityHW" width="500" height="1000"/>
 
